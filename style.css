@@ -13,11 +13,6 @@ header {
 
 h2 {
   margin-top: 40px;
-  color: #333;
-}
-
-.about {
-  padding: 20px;
 }
 
 .icons i {
@@ -35,7 +30,6 @@ h2 {
   box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
 }
 
-/* CONTACT FORM */
 form {
   width: 50%;
   margin: auto;
@@ -45,15 +39,16 @@ input, textarea {
   width: 100%;
   padding: 10px;
   margin: 10px 0;
-  border: none;
   border-bottom: 1px solid #ccc;
+  border-top: none;
+  border-left: none;
+  border-right: none;
 }
 
 button {
   background: #14b8a6;
   color: white;
-  padding: 10px 20px;
+  padding: 10px;
   border: none;
   border-radius: 5px;
-  cursor: pointer;
 }
