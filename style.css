@@ -1,0 +1,59 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #f4f4f4;
+  text-align: center;
+}
+
+header {
+  background: #14b8a6;
+  color: white;
+  padding: 40px;
+}
+
+h2 {
+  margin-top: 40px;
+  color: #333;
+}
+
+.about {
+  padding: 20px;
+}
+
+.icons i {
+  font-size: 45px;
+  margin: 15px;
+  color: #14b8a6;
+}
+
+.card {
+  background: white;
+  margin: 20px auto;
+  padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+/* CONTACT FORM */
+form {
+  width: 50%;
+  margin: auto;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-bottom: 1px solid #ccc;
+}
+
+button {
+  background: #14b8a6;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
