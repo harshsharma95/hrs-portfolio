@@ -13,6 +13,7 @@ header {
 
 h2 {
   margin-top: 40px;
+  color: #333;
 }
 
 .icons i {
@@ -51,4 +52,5 @@ button {
   padding: 10px;
   border: none;
   border-radius: 5px;
+  cursor: pointer;
 }
